@@ -2,7 +2,7 @@ body {
   margin: 0;
   color: #fff;
   font-family: Verdana, Geneva, Tahoma, sans-serif;
-  background: url(/dashboard/images/grafismo_backgroud.png) no-repeat fixed;
+  background: url(../images/grafismo_backgroud.png) no-repeat fixed;
   background-color: #259cd9;
   background-size: 725px;
   background-position: left;
